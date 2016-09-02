@@ -46,6 +46,9 @@
 .pd-0 {
 	padding: 0% !important;
 }
+.pd-5px {
+	padding: 5px;
+}
 .mg-0{
 	margin: 0 !important;
 }
@@ -99,7 +102,7 @@
 }
 /*texto................................*/
 .t-1p3 {
-	font-size: 5em;
+	font-size: 1.3em;
 }
 .t-1 {
 	font-size: 1.8em;
@@ -125,11 +128,17 @@
 .t-gris {
 	color: gray;
 }
+.t-negro {
+	color: black;
+}
 .subrayado {
 	text-decoration: underline;
 }
 .t-rojo {
 	color: red;
+}
+.lh-3 {
+	line-height: 3;
 }
 /*width....................................*/
 .w-100 {
@@ -147,4 +156,7 @@
 }
 .superborde {
 	border-bottom: solid gray 7px;
+}
+.bor-r-100 {
+	border-radius: 100%;
 }
