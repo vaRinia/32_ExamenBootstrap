@@ -2,16 +2,70 @@
 	background-color: rgb(245, 98, 109);
 }
 .t-rojjo {
-	color: rgb(245, 98, 109);
+	color: rgb(245, 98, 109) !important;
 }
 .icono-redes {
 	background-color: white;
-	width: 20px;
-	height: 20px;
+	width: 40px;
+	height: 40px;
 	color: #1B1B1C;
 	padding: 3px;
+	display: inline-block;
 
 }
 a {
-	color: #1B1B1C;
+	color: #1B1B1C !important;
+}
+/*FONDOS IMAGENES*/
+.bg-img-acces {
+	background-image: url("../img/banner1.jpg");
+	height: 480px;
+}
+.bg-img-ban {
+	background-image: url("../img/client-bg.jpg");
+	height: 300px;
+}
+.bg-img-newarr {
+	background-image: url("../img/banner2.jpg");
+	height: 480px;
+}
+.bg-img-a1 {
+	background-image: url("../img/a1.jpg");
+	height: 200px;
+}
+.bg-img-b1 {
+	background-image: url("../img/b1.jpg");
+	height: 200px;
+}
+.bg-img-c1 {
+	background-image: url("../img/c1.jpg");
+	height: 200px;
+}
+.bg-img-d1 {
+	background-image: url("../img/d1.jpg");
+	height: 200px;
+}
+.bg-img-blocko{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.bg-img-blog1 {
+	background-image: url("../img/blog1.jpg");
+	height: 200px;	
+}
+.bg-img-blog2 {
+	background-image: url("../img/blog2.jpg");
+	height: 200px;	
+}
+.bg-img-blog3 {
+	background-image: url("../img/blog3.jpg");
+	height: 200px;	
+}
+.etiqueta {
+	width: 50px;
+	height: 22px;
+	margin-top: 7px;
+	color: white;
+	padding-top: 2px; 
 }
